@@ -1,10 +1,14 @@
 ## Course Project 1 - Exploratory Data Analysis
 
+Overall goal of the assignment is to examine how household energy 
+usage varies over a 2-day period in February, 2007. 
+The task is to reconstruct 4 plots using the base plotting system.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
+datasets. In particular, the "Individual household
+electric power consumption Data Set" is used, made available on
 the course web site:
 
 
@@ -15,7 +19,7 @@ one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
-* For this assignment only data from 2007-02-01 and 2007-02-02 were used. 
+* For this assignment only data from **2007-02-01 and 2007-02-02** were used. 
 
 
 The following descriptions of the 7 variables in the dataset are taken
