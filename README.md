@@ -4,6 +4,8 @@ Overall goal of the assignment is to examine how household energy
 usage varies over a 2-day period in February, 2007. 
 The task is to reconstruct 4 plots using the base plotting system.
 
+Please read full instructions for further detail https://github.com/rdpeng/ExData_Plotting1
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
